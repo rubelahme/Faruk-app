@@ -378,12 +378,12 @@ const Verify = () => {
             <div>
               <p className="p-0 mb-1 UploadData">
                 Your photo must show you holding a handwritten sing showing the
-                following information : <br /> 1: Your working name (this should
-                match your profile) <br />
-                2: The email address you signed up with <br />
-                3: Todays's date <br />
-                4: The phrase "I am singing up for Tryst.link" (The verification
-                process of Tryst and Eros has been integrated)
+                following information :
+                <br /> 1: The phrase "Private Delights" (The verification
+                process of PrivateDelights and Eros has been integrated)
+                <br /> 2: The email address you signed up with <br />
+                3: Your working name (this should match your profile) <br />
+                4: Todays's date <br />
               </p>
               <input
                 accept="image/*"
